@@ -1,0 +1,53 @@
+/*
+ *  about.txt
+ *
+ *  This file is part of m48
+ *
+ *  Copyright (C) 2009 Markus Gonser, m48@mksg.de
+ *
+ *  This program is free software; you can redistribute it and/or
+ *  modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation; either version 2
+ *  of the License, or (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ * 
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program; if not, write to the Free Software
+ *  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ *
+ */
+
+
+
+Description:
+
+m48 is a native port of Emu48 for the iPhone. 
+For details about the functionality please refer to the 
+	versionhistory.txt 
+and the homepage of m48
+	http://www.mksg.de/m48/index.html
+
+
+
+Copyright (C) 2014 Markus Gonser, m48@mksg.de
+
+
+
+Credits:
+
+based on Emu48 for Windows Mobile 1.16 by Christoph Gießelink and Sebastian Carlier
+Portions Copyright (C) 2009 Christoph Gießelink
+Portions Copyright (C) 1994 Sebastian Carlier
+
+
+
+
+Acknowledgement:
+
+Many thanks to the original authors for developing Emu48.
+
+
